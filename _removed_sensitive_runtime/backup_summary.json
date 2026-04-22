@@ -1,0 +1,14 @@
+﻿{
+    "Source":  "\\\\8.136.20.34\\d\\public_upload",
+    "Backup":  "E:\\honoka-chan-master (1)\\_backup\\server_strip_guard\\public_upload_full_20260421_200855",
+    "ExcludedNames":  "LOCK,robocopy.log,backup_summary.json,key_hash_compare.csv",
+    "SourceFileCount":  5406,
+    "BackupFileCount":  5406,
+    "SourceTotalBytes":  333043596,
+    "BackupTotalBytes":  333043596,
+    "MissingInBackupCount":  0,
+    "ExtraInBackupCount":  0,
+    "MissingSample":  "",
+    "ExtraSample":  "",
+    "KeyFilesAllMatch":  true
+}
